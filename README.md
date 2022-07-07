@@ -4,7 +4,7 @@ Date: July 7, 2022
 
 # Fifth challange of [JavaScript30](https://javascript30.com/)
 
-Its a webpage with flex panels. To experience on your own visit [here](https://rohit-saini7.github.io/03-CSS-Variables/)
+Its a webpage with flex panels. To experience on your own visit [here](https://rohit-saini7.github.io/05-Flex-Panel-Gallery/)
 
 ## What is JavaScript 30
 
